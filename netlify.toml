@@ -1,0 +1,14 @@
+[build.processing.html]
+	pretty_urls = true
+
+[[redirects]]
+	from = "http://accessibility.torontojs.com/*"
+	to = "https://accessibility.torontojs.com/:splat"
+	status = 301
+	force = true
+
+[[redirects]]
+	from = "https://accessibility.torontojs.com/*"
+	to = "/:splat"
+	status = 301
+	force = true
