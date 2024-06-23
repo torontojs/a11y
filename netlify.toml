@@ -12,3 +12,9 @@
 	to = "https://a11y.torontojs.com/:splat"
 	status = 301
 	force = true
+
+[[redirects]]
+	from = "http://a11y.torontojs.com/*"
+	to = "https://a11y.torontojs.com/:splat"
+	status = 301
+	force = true
