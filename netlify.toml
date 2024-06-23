@@ -9,6 +9,6 @@
 
 [[redirects]]
 	from = "https://accessibility.torontojs.com/*"
-	to = "/:splat"
+	to = "https://a11y.torontojs.com/:splat"
 	status = 301
 	force = true
